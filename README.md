@@ -2,7 +2,7 @@
 
 Playgrounds:
 
-- Babylon.js Playground: https://playground.babylonjs.com/#M3GL05
+- Babylon.js Playground: https://playground.babylonjs.com/#M3GL05#1
 - PlayCode: https://playcode.io/1533749
 - Plunker: https://plnkr.co/edit/pLlvjTno01Nms3PT?preview
 
